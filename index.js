@@ -31,7 +31,8 @@ const questions = [
   {
     type: "checkbox",
     name: "license",
-    message: [
+    message: "Please select a license that is best suited for your project.",
+    choices: [
       "MIT",
       "Apache License 2.0",
       "GNU General Public License (GPL) v3",
@@ -77,9 +78,10 @@ function writeToFile(fileName, data) {
 // Function to initialize program
 function init() {
   inquirer.prompt(questions).then((answers) => {
-    console.log(answers);
     writeToFile("./utils/README.md", generateMarkdown(answers), (err) => {
       console.log(err);
     });
   });
 }
+
+init();
