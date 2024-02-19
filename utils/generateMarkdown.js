@@ -35,3 +35,5 @@ function generateMarkdown(data) {
     - Email: [${data.email}](mailto:${data.email})
     `;
 }
+
+module.exports = generateMarkdown;
