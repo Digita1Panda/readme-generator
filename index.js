@@ -2,6 +2,10 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+console.log(
+  "Please answer the following questions to generate your own personal README file"
+);
+
 const questions = [
   // Title of the project
   {
