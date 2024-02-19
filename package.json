@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "this app will take user prompt to generate a readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Digita1Panda"
+  },
+  "keywords": [
+    "readme",
+    "digitalpanda",
+    "generator"
+  ],
+  "author": "kwok law",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
