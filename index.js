@@ -45,4 +45,22 @@ const questions = [
     message:
       "Please list any contributors to the project or state how people can contribute to the project.",
   },
+  //   Test instructions
+  {
+    type: "input",
+    name: "test",
+    message: "Please provide details on how to test this application.",
+  },
+  //   GitHub user name
+  {
+    type: "input",
+    name: "github",
+    message: "Please provide your GitHub username.",
+  },
+  //   Email address
+  {
+    type: "input",
+    name: "email",
+    message: "Please enter your email address for contact information.",
+  },
 ];
