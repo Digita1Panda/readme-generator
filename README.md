@@ -24,6 +24,8 @@ Generate a readme from prompt questions
 
 ## Usage
 
+[Video Link](https://drive.google.com/file/d/1o86OEtOIONfdcX9zGbOGo0IZkSpbSowq/view)
+
 [![Video Link](https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTrdFlG0xYZXGiLLRmiHREsOXfBNkzkYKCGW4Ybva7Oc5XZy6OlUpSnp1LbiHRYrClqbT_H3XB1ovTufzR04X08LxHaHw=w1920-h1080-k-pd)](https://drive.google.com/file/d/1o86OEtOIONfdcX9zGbOGo0IZkSpbSowq/view)
 
 ## Credits
